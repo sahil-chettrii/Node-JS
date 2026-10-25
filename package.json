@@ -1,0 +1,25 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/sahil-chettrii/Node-JS#readme",
+  "bugs": {
+    "url": "https://github.com/sahil-chettrii/Node-JS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahil-chettrii/Node-JS.git"
+  },
+  "license": "ISC",
+  "author": "Sahil Chettri",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0",
+    "nodemon": "^3.1.14"
+  }
+}
